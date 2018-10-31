@@ -1,0 +1,7 @@
+{
+    "__comment": "Estarilon 1.0",
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blocks/stonebrick"
+    }
+}

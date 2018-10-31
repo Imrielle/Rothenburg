@@ -1,0 +1,11 @@
+{
+	"__comment": "glass_black.png ctm",
+	"ctm":{
+		"ctm_version": 1,
+		"type":"CTM",
+		"layer":"TRANSLUCENT",
+		"textures":[
+			"minecraft:blocks/glass_ctm"
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"__comment": "glass_silver.png ctm",
+	"ctm":{
+		"ctm_version": 1,
+		"type":"CTM",
+		"layer":"TRANSLUCENT",
+		"textures":[
+			"minecraft:blocks/glass_silver_ctm"
+		]
+	}
+}
