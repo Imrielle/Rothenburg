@@ -2,7 +2,8 @@
     "__comment": "Estarilon 1.0",
     "variants": {
         "normal": [
-            { "model": "coarse_dirt", "weight": 75 },
+            { "model": "coarse_dirt", "weight": 50 },
+            { "model": "coarse_dirt1", "weight": 25 },
             { "model": "coarse_dirt2", "weight": 25 }
         ]
     }
