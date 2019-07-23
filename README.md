@@ -9,13 +9,13 @@ Also, I wanted something to practice my pixel art skills on.
 
 ## Planned Mod Support
 * Minecolonies (which makes sense, considering I'm one of their artists)
-* Ancient Warfare 2
+* Ancient Warfare 2, though erm. Theress some 900+ textures in their skin pack.
 * Quark and Charm
-* Astral Sorcery - Mostly, I'd love to make marble variants to go with Quarks marble.
 * Thaumcraft 6
 * Rustic
-* Dark Roleplay Medieval
+* Dark Roleplay Medieval. Maybe.
 * Embers
+* Roots 2
 * Traverse - which shouldn't take long, considering
 * Artisan Worktables - I'd love to see if I could make the models more unique. I'm not sure if its possible.
 
