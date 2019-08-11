@@ -1,4 +1,5 @@
 ### Augist 11, 2019
+* Ore texture update
 * Started Biomes O' Plenty support
   * Dirts, Grasses, Dirt Paths, and Ores completed. Overgrown Stone also completed.
   * Ore Stone Variant textures for BoP gems completed.
@@ -6,7 +7,7 @@
   * Poison Liquid texture created, though may need adjustments to color.
 * Started End: Reborn support
   * Glowing End Stone textures completed.
-  * I just realized that while I made the Entropy End Stone, End Stone Pillar and Polished textures... I used the glowing versions palette. Woops.
+  * I just realized that while I made the Entropy End Stone, End Stone Pillar and Polished textures... I used the glowing versions palette. Woops. I'll just go fix that...
   * Purpur Lamp, Purpur Tech Pillar and Purpur Entropy textures completed, though the Purpur Tech block texture needs some serious work. The decoration on its kind of ugly.
 * Updated Sources folder. Just noticed that the Stone file has the old brick textures in it... derp. I'll have to fix that.
 ### Jul 22, 2019
