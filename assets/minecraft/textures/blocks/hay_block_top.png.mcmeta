@@ -1,0 +1,11 @@
+{
+	"__comment": "hay_block_top.png ctm",
+	"ctm":{
+		"ctm_version": 1,
+		"type":"CTM",
+		"layer":"SOLID",
+		"textures":[
+			"minecraft:blocks/hay_block_top_ctm"
+		]
+	}
+}
