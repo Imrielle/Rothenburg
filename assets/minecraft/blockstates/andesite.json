@@ -1,9 +1,9 @@
 {
     "variants": {
-        "normal": [
-         { "model": "andesite", "weight": 40 },
-         { "model": "andesite1", "weight": 30 },
-         { "model": "andesite2", "weight": 30 }
-         ]
+        "": [
+            { "model": "block/andesite", "weight": 40 },
+            { "model": "block/andesite1", "weight": 30 },
+            { "model": "block/andesite2", "weight": 30 }
+        ]
     }
 }
