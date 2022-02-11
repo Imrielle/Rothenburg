@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/plants/shrooms/red_mushroom" },
+      { "model": "block/plants/shrooms/red_mushroom_1" }
+    ]
+  }
+}

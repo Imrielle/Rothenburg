@@ -1,0 +1,15 @@
+{ "multipart": [
+    {"when": {"age": 0},
+      "apply": {"model": "block/plants/bushes/berry_bush_small"}
+    },
+    {"when": {"OR": [{"age": 1}, {"age": 2}, {"age": 3}]},
+      "apply": { "model": "block/plants/bushes/berry_bush" }
+    },
+    { "when": { "OR": [ { "age": 2 } ]},
+      "apply": { "model": "block/plants/bushes/berry_bush_berries_1" }
+    },
+    { "when": { "age": 3 },
+      "apply": { "model": "block/plants/bushes/berry_bush_berries_2" }
+    }
+  ]
+}

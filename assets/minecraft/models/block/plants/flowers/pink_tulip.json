@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/plants/template_tulip",
+  "textures": {
+    "petal": "minecraft:block/flowers/pink_petal"
+  }
+}
